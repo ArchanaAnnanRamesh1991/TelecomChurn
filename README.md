@@ -9,5 +9,6 @@ Objective:
 
 The objective of this project is to develop a predictive model that can accurately identify customers who are likely to churn. By proactively identifying at-risk customers, the company aims to implement targeted retention strategies to reduce churn and improve customer satisfaction and loyalty.
 
+![Uploading image.png…]()
 
 
